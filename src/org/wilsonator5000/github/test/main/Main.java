@@ -7,7 +7,7 @@ package org.wilsonator5000.github.test.main;
 public class Main {
 
     public Main() {
-        
+        int hi = 3;
     }
     
     public static void main(String[] args) {
